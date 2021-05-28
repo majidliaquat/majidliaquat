@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... I am A Software Engineer and Web developer
 - 📫 How to reach me: ... you can reach me at [majidliaquat.com](majidliaquat.com) or I tweets at [@MajidLiaquat1](twitter.com/Majidliaquat1)
 - 😄 Pronouns: ... Babu
-- ⚡ Fun fact: ... Love to design, and collaborate 
+- ⚡ Fun fact: ... I did my Software Engineering accidently :p 
