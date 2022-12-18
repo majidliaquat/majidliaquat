@@ -7,11 +7,9 @@
 Here are some ideas to get you started: 
 -->
 
-- 🔭 I’m currently working on ...  Deep Learning
-- 🌱 I’m currently learning ... Data Science, Data Analytics
-- 👯 I’m looking to collaborate on ... Data Analysis
-- 🤔 I’m looking for help with ... Data Mining and Data Analysis
-- 💬 Ask me about ... I am A Software Engineer and Web developer
-- 📫 How to reach me: ... you can reach me at [majidliaquat.com](majidliaquat.com) or I tweets at [@MajidLiaquat1](twitter.com/Majidliaquat1)
-- 😄 Pronouns: ... Babu
-- ⚡ Fun fact: ... I did my Software Engineering accidently :p 
+- 🔭 I’m currently focusing on ...  My Master in Computer Science
+- 🌱 I’m currently learning ... Cloud Based Web Development
+- 👯 I’m looking to collaborate on ... Web Development and Designing
+- 🤔 I’m looking for help with ... Cloud Based Web Application
+- 💬 Ask me about ... Web Development and designing
+- 📫 How to reach me: ... you can reach me at [majidliaquat.com](majidliaquat.com), I tweets at [@MajidLiaquat1](twitter.com/Majidliaquat1)
